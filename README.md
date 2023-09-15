@@ -1,6 +1,6 @@
 # Frontend developer
 
-## Gamael San
+## Gama San
 
 My hard skils:
 - HTML
@@ -10,9 +10,9 @@ My hard skils:
   
 Code editor:
 - Visual Studio Code
-- 
-- 💞️ I’m looking to collaborate on WEB design and web development
-- 📫 How to reach me : santanagamael@gmail.com
+
+I’m looking to collaborate on WEB design and web development
+How to reach me : santanagamael@gmail.com
 
 <!---
 Santanagamael/Santanagamael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
