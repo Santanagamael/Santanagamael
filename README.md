@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @Santanagamael
-- 👀 I’m interested in web development, architecture, arts and handball
-- 🌱 I’m currently learning web development
+#Front end developer
+
+## Gamael San
+
+My hard skils:
+- HTML
+- CSS -Bootstrap -Flexbox -Grid
+- Javascript
+- Python
+  
+Code editor:
+- Visual Studio Code
+- 
 - 💞️ I’m looking to collaborate on WEB design and web development
 - 📫 How to reach me : santanagamael@gmail.com
 
